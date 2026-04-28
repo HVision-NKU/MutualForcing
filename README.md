@@ -7,13 +7,13 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/03701c83-0801-4a44-95ea-45240caff8b0"
          width="70%" controls playsinline preload="metadata"></video>
-  <p><em>MutualForcing 1min30s Video Demo (The video was heavily compressed due to GitHub's 10 MB upload file size limit.)</em></p>
+  <p><em>Please turn on the sound to hear the audio. MutualForcing 1min30s Video Demo (The video was heavily compressed due to GitHub's 10 MB upload file size limit.)</em></p>
 </div>
 
 
 ## ✨ Highlights
 
-- **Fast auto-regressive audio-video generation** with only **4–8 inference steps**
+- **Fast auto-regressive audio-video joint generation** with only **4–8 inference steps**
 - Supports **streaming generation** and **long-duration audio-video synchronization**
 - A **two-stage training strategy** for stable multimodal optimization
 - A unified **dual-mode self-evolution framework** for few-step and multi-step generation
