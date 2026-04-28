@@ -1,4 +1,4 @@
-# MutualForcing: Dual-Mode Self-Evolution for Fast Auto-Regressive Audio-Video Character Generation
+# MutualForcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation
 
 
 
@@ -20,6 +20,20 @@
 - No need for an extra **bidirectional teacher model**
 - Lower memory cost and more flexible training on long sequences
 - Matches or outperforms prior methods that require **50 steps**
+
+<img width="855" height="305" alt="teaser" src="https://github.com/user-attachments/assets/b6076942-ee10-4e5d-a150-5fba2318b54b" />
+
+## 📚 Table of Contents
+
+- [🎬 Multi-Domain Generalization Result]
+  - [🎤 Singing]
+  - [🎼 BGM Music]
+  - [🗣️ Multi-Person Speaking]
+  - [🐾 Animal & 🍽️ Eating]
+  - [1min Long Video Generation]
+- [📌 Open-source TODO]
+
+
 
 ## 🎬 Multi-Domain Generalization Result
 
@@ -60,8 +74,26 @@
 | <video src="https://github.com/user-attachments/assets/15995bd6-9685-4669-a7df-1b479f8fa863" controls width="260"></video> | <video src="https://github.com/user-attachments/assets/0abba59e-4b5a-4ae1-84be-beba6bf5a980" controls width="260"></video> |
 ---
 
+
 ## 1min Long Video Generation
 
 | | | |
 |---|---|---|
 | <video src="https://github.com/user-attachments/assets/4f1bb17e-dd43-4336-9631-87c71749eea1" controls width="260"></video> | <video src="https://github.com/user-attachments/assets/36d75d80-230e-4b67-8553-0059c7718c0d" controls width="260"></video> | <video src="https://github.com/user-attachments/assets/c6fc6ee2-1c8e-4716-9e3e-6cbaafff1e25" controls width="260"></video> |
+
+
+
+## 📌 Open-source TODO
+
+- [x] Project page
+- [x] Paper release
+- [ ] Inference code
+- [ ] Training code
+- [ ] Checkpoints
+- [ ] Data preprocessing pipeline
+- [ ] Evaluation scripts
+- [ ] Streaming generation support
+- [ ] Long-duration generation examples
+- [ ] Reproducibility instructions
+- [ ] Hugging Face / demo integration
+- [ ] Full documentation
